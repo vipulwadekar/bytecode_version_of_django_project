@@ -1,0 +1,1 @@
+# bytecode_version_of_django_project
